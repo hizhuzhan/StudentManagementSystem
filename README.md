@@ -11,14 +11,9 @@
 ### 修改Mysql用户名与密码
 The path: StudentManagementSystem/src/hibernate.xml <br>
 change: 
-
-      
-      ```
-      <property name="connection.username">Your Mysql Connection Username</property>
-      ```
-      <br>
-      ```
-      <property name="connection.password">Your Mysql Connection Password</property>
-      ```
+```
+<property name="connection.username">Your Mysql Connection Username</property>
+<property name="connection.password">Your Mysql Connection Password</property>
+```
 
       
