@@ -12,10 +12,4 @@
       StudentManagementSystem/src/hibernate.xml <br>
       The path: StudentManagementSystem <br>
       change: <br>
-      ```
-      <property name="connection.username">Your Mysql Connection Username</property>
-      ```
-      <br>
-      ```
-      <property name="connection.password">Your Mysql Connection Password</property>
-      ```
+      
