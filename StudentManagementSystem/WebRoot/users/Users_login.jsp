@@ -231,7 +231,7 @@ body{
 	<div id="header">
 		<div id="logo"></div>
 		<div id="heading">
-			<div id="title">山西大学学生后台管理系统</div>
+			<div id="title">大学生后台管理系统</div>
 			<div id="subTitle">Ver 1.0</div>
 		</div>
 	</div>
@@ -271,7 +271,7 @@ body{
 		</div>
 	</div>
 	<div id="footer">
-		<div id="text">Copyright © 2009-2015 All Rights Reserved Powered By Liwei</div>
+		<div id="text">Copyright © 2009-2015 All Rights Reserved Powered By zhuzhan</div>
 	</div>
 </div>
 </body>
