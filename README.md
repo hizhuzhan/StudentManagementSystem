@@ -8,7 +8,7 @@
    * Hibernate version "4.3.11.Final" <br>
    * Mysql-JDBC version "5.1.42" <br>
 ## StudentManagementSystem attention
-### 修改Mysql用户名与密码
+#### 修改Mysql用户名与密码
 The path: StudentManagementSystem/src/hibernate.xml <br>
 change: 
 ```
