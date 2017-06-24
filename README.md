@@ -1,4 +1,4 @@
-# StudentManagementSystem
+# StudentManagementSystem Update on 2017.6.24
 ## StudentManagementSystem in
    * Java version "1.7" <br>
    * Tomcat version "7.0" <br>
@@ -15,5 +15,6 @@ change:
 <property name="connection.username">Your Mysql Connection Username</property>
 <property name="connection.password">Your Mysql Connection Password</property>
 ```
+
 
       
