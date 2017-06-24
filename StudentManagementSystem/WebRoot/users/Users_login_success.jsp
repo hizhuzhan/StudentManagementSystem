@@ -15,7 +15,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 <div id="wrapper">
 	<div id="header">
 		<div id="white"></div>
-		<div id="title">山西大学学生后台管理系统</div>
+		<div id="title">大学生后台管理系统</div>
 		<div id="user_info">
 			<div id="welcome">欢迎${sessionScope.loginUserName}使用本系统</div>
 			<div id="logout"><a href="<%=path%>/users/Users_logout.action">安全退出</a></div>
@@ -27,7 +27,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 	<div id="main">
 		<iframe name="MainFrame" src="Users_login_main.jsp"></iframe>
 	</div>
-	<div id="footer">Copyright © 2017-2050 All Rights Reserved Powered By Liwei</div>
+	<div id="footer">Copyright © 2017-2050 All Rights Reserved Powered By Zhuzhan</div>
 </div>
 </body>
 <script type="text/javascript">
