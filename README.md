@@ -1,6 +1,6 @@
 # StudentManagementSystem
 ## StudentManagementSystem in
-   Java version "1.7" <br>
+   * Java version "1.7" <br>
    Tomcat version "7.0" <br>
    Mysql version "5.6.36" <br>
    <br>
