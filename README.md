@@ -8,5 +8,4 @@
    * Struts version "2.3.4" <br>
    * Hibernate version "4.3.11.Final" <br>
    * Mysql-JDBC version "5.1.42" <br>
-##
    
