@@ -9,9 +9,8 @@
    * Mysql-JDBC version "5.1.42" <br>
 ## StudentManagementSystem attention
 ### 修改Mysql用户名与密码
-      StudentManagementSystem/src/hibernate.xml 
-      The path: StudentManagementSystem 
-      change: 
+The path: StudentManagementSystem/src/hibernate.xml <br>
+change: 
 
       
       ```
