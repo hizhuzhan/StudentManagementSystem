@@ -1,5 +1,12 @@
 # StudentManagementSystem
-=====
 ## StudentManagementSystem in
-   java version "1.7" 
-   Tomcat version "7.0"
+   Java version "1.7" <br>
+   Tomcat version "7.0" <br>
+   Mysql version "5.6.36" <br>
+   <br>
+   Junit version "4.0" <br>
+   Struts version "2.3.4" <br>
+   Hibernate version "4.3.11.Final" <br>
+   Mysql-JDBC version "5.1.42" <br>
+   
+   
