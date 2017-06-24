@@ -12,7 +12,7 @@
 The path: StudentManagementSystem/src/hibernate.xml <br>
 change: 
 ```
-<property name="connection.username">Your Mysql Connection Username</property>
+<property name="connection.username">``Your Mysql Connection Username``</property>
 <property name="connection.password">Your Mysql Connection Password</property>
 <property name="connection.url">jdbc:mysql://localhost:3306/Your DateBase name</property>
 ```
