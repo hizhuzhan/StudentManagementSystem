@@ -1,7 +1,8 @@
 # StudentManagementSystem Update on 2017.6.24
 ## Simple introduction
 #### Login
-![login](http://github.com/hizhuzhan/StudentManagementSystem/raw/master/img/login.png)
+![login](https://github.com/hizhuzhan/StudentManagementSystem/raw/master/img/login.png)
+![recipe2](https://github.com/linwh8/ModernWebPrograming/raw/master/My_image/recipe_1.png)
 ## StudentManagementSystem in
    * Java version "1.7" <br>
    * Tomcat version "7.0" <br>
