@@ -3,21 +3,21 @@
 #### Login
 ![login](https://github.com/hizhuzhan/StudentManagementSystem/raw/master/img/login.png)
 #### Login_failure
-![Login_failure](https://github.com/hizhuzhan/StudentManagementSystem/raw/master/img/Login_failure.png)
+![Login_failure](https://github.com/hizhuzhan/StudentManagementSystem/raw/master/img/login_failure.png)
 #### Login_success
-![Login_success](https://github.com/hizhuzhan/StudentManagementSystem/raw/master/img/Login_success.png)
+![Login_success](https://github.com/hizhuzhan/StudentManagementSystem/raw/master/img/login_success.png)
 #### Students
-![Students](https://github.com/hizhuzhan/StudentManagementSystem/raw/master/img/Students.png)
+![Students](https://github.com/hizhuzhan/StudentManagementSystem/raw/master/img/students.png)
 #### Students_add
-![Students_add](https://github.com/hizhuzhan/StudentManagementSystem/raw/master/img/Students_add.png)
+![Students_add](https://github.com/hizhuzhan/StudentManagementSystem/raw/master/img/students_add.png)
 #### Students_add_success
-![Students_add_success](https://github.com/hizhuzhan/StudentManagementSystem/raw/master/img/Students_add_success.png)
-#### students_queryBySid
-![students_queryBySid](https://github.com/hizhuzhan/StudentManagementSystem/raw/master/img/students_queryBySid.png)
+![Students_add_success](https://github.com/hizhuzhan/StudentManagementSystem/raw/master/img/students_add_success.png)
+#### Students_queryBySid
+![Students_queryBySid](https://github.com/hizhuzhan/StudentManagementSystem/raw/master/img/students_queryBySid.png)
 #### Students_queryBySid_failure
-![Students_queryBySid_failure](https://github.com/hizhuzhan/StudentManagementSystem/raw/master/img/Students_queryBySid_failure.png)
+![Students_queryBySid_failure](https://github.com/hizhuzhan/StudentManagementSystem/raw/master/img/students_queryBySid_failure.png)
 #### Students_queryBySid_success
-![Students_queryBySid_success](https://github.com/hizhuzhan/StudentManagementSystem/raw/master/img/Students_queryBySid_success.png)
+![Students_queryBySid_success](https://github.com/hizhuzhan/StudentManagementSystem/raw/master/img/students_queryBySid_success.png)
 ## StudentManagementSystem in
    * Java version "1.7" <br>
    * Tomcat version "7.0" <br>
